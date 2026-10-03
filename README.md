@@ -45,3 +45,31 @@ Sou um desenvolvedor em constante aprendizado, focado em construir bases sólida
 - **LinkedIn:** [O Seu Perfil no LinkedIn](https://linkedin.com/in/seu-perfil)
 - **E-mail:** [seu-email@exemplo.com](felipebrayan1403@gmail.com)
 - **Portefólio:** [O Seu Site/Portefólio (Opcional)](#)
+
+# 💻 [Nome do Projeto - ex: Site de Montagem de PCs]
+
+> [Escreve aqui uma frase curta e apelativa sobre o que o projeto faz. Exemplo: Um site interativo desenvolvido para ajudar utilizadores a escolherem as melhores peças para o seu computador.]
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+* **[Ex: HTML5]** - Estruturação da página
+* **[Ex: CSS3]** - Estilização e design responsivo
+* **[Ex: JavaScript]** - Lógica e interatividade
+
+---
+
+## 🔗 Acesso ao Projeto
+
+Podes testar e ver o projeto a funcionar em direto através do link abaixo:
+
+👉 **[Clica aqui para ver o projeto online]([Insere aqui o link do Netlify ou do site])**
+
+---
+
+## 📸 Pré-visualização
+
+*(Opcional: Podes arrastar uma imagem ou print do teu site para aqui para mostrar como ele é visualmente)*
