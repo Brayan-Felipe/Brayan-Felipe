@@ -34,8 +34,10 @@ Sou um desenvolvedor em constante aprendizado, focado em construir bases sólida
 
 <!-- Note: Substitua "SEU-USUARIO" pelo seu nome de utilizador real do GitHub nas duas URLs abaixo -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=felipebrayan1403-cell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrayan1403-cell&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=
+Brayan-Felipel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Brayan-Felipe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
